@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #212529;
+    color: white;
+}
+
+header {
+    background-color: #111111;
+    color: white;
+    padding: 5px 30px 5px 30px;
+}
+
+nav {
+    margin: auto;
+    max-width: 1150px;
+}
+
+.content {
+    margin: auto;
+    max-width: 1200px;
+    padding: 40px;
+    margin-top: 70px;
+}
+
+footer {
+    background-color: #111111;
+    width: 100%;
+}
+
+.titulo-pagina {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.formulario {
+    max-width: 470px;
+}
+
+.formulario::placeholder {
+    color: #3b3b3b;
+}
+
+
+.container {
+    max-width: 500px; /* Defina a largura máxima desejada */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}

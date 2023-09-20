@@ -1,0 +1,397 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #212529;
+    color: white;
+}
+
+header {
+    background-color: #111111;
+    color: white;
+    padding: 5px 30px 5px 30px;
+}
+
+nav {
+    margin: auto;
+    max-width: 1150px;
+}
+
+.more {
+    border-top: 4px solid #208454;
+    padding: 5px;
+}
+
+.more h1 {
+    padding: 5px;
+}
+
+article img{
+    max-width: 100%;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.content {
+    margin: auto;
+    max-width: 1200px;
+    padding: 40px;
+    margin-top: 70px;
+}
+
+figure {
+    margin-bottom: 50px;
+    border-bottom: 1px solid white;
+}
+
+.main-carousel {
+    border-bottom: none;
+}
+
+.main-carousel img {
+    border-radius: 0px;
+}
+
+.main-news a{
+    text-decoration: none;
+    color: white;
+}
+
+.news-body {
+    font-size: 20px;
+}
+
+.news-body-image {
+    padding: 20px 0px 20px 0px;
+    font-size: 15px;
+    text-align: center;
+    color: #8b8b8b;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: left;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.col-12 {
+    padding: 20px;
+}
+
+
+.col-12 a {
+    text-decoration: none;
+    color: white;
+}
+
+#main-content {
+    border-top: 4px solid #208454;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.videos {
+    padding-top: 2rem;
+    border-top: 4px solid #208454;
+}
+
+.news-image {
+    min-width: 300px ;
+    height: auto;
+}
+
+.col a{
+    text-decoration: none;
+    color: white;
+}
+
+.col a:hover {
+    color: #aaaaaa;
+}
+
+#reviews {
+    background-color: rgb(26, 26, 26);
+    border-radius: 10px;
+}
+
+.poster-img {
+    padding: 5px;
+    min-width: 200px;
+    max-width: 70%;
+}
+
+.most-views li {
+    border-bottom: 2px solid black;
+}
+
+.review-text {
+    text-align: left;
+    padding-left: 30px;
+}
+
+
+.dropdown-menu {
+    background-color: #111111;
+}
+
+.form-control {
+    background-color: #111111;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.btn-outline-success {
+    border-radius: 0px 20px 20px 0px;
+}
+
+.select-category {
+    padding: 0px 0px 20px 20px;
+    font-size: 17px;
+}
+
+.form-select {
+    background-color: #212529;
+    color: white;
+    width: 250px;
+    font-size: 17px;
+}
+
+footer {
+    background-color: #111111;
+    width: 100%;
+}
+
+/* categorias de notícias */
+
+.games-news {
+    padding: 5px;
+    padding-bottom: 0px;
+    color: rgb(0, 162, 255);
+    font-weight: 600;
+}
+
+.movies-shows-news {
+    padding: 5px;
+    padding-bottom: 0px;
+    color: rgb(250, 53, 53);
+    font-weight: 600;
+}
+
+.science-news {
+    padding: 5px;
+    padding-bottom: 0px;
+    color: rgb(99, 219, 99);
+    font-weight: 600;
+}
+
+.tech-news {
+    padding: 5px;
+    padding-bottom: 0px;
+    color: rgb(244, 228, 76);
+    font-weight: 600;
+}
+
+.comics-news {
+    padding: 5px;
+    padding-bottom: 0px;
+    color: rgb(138, 37, 163);
+    font-weight: 600;
+}
+
+.random-news {
+    padding: 5px;
+    color: #aaaaaa;
+    font-weight: 600;
+}
+
+.videos-label {
+    font-weight: 600;
+}
+
+/* fonts */
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.nav-item {
+    font-size: 1.1rem;
+}
+
+.navbar-brand:hover {
+    color: #2fb373;
+}
+
+caption {
+    padding: 5px;
+}
+
+
+
+.news-title-1 {
+    font-weight: 600;
+    padding: 5px;
+    padding-bottom: 0;
+    font-size: 1.2rem;
+}
+
+.news-title-row {
+    font-weight: 700;
+    padding-left: 5px;
+}
+
+.news-row-text {
+    padding-left:5px ;
+}
+
+.main-news-title {
+    font-size: 50px;
+}
+
+.main-news-headline {
+    font-size: 100%;
+    padding:0px 5px 0px 5px;
+    font-weight: 700;
+}
+
+.main-news-summary {
+    padding:0px 5px 0px 5px;
+    color: #aaaaaa;
+}
+
+.news-title-1:hover {
+    color: #9b9d9e;
+}
+
+.news-header {
+    margin-bottom: 40px;
+}
+
+.news-text-1 {
+    padding:0px 5px 0px 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.author {
+    color: #208454;
+    font-weight: 600;
+}
+
+.post-label {
+    padding:0px 5px 0px 5px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: #208454;
+}
+
+.main-title {
+    padding: 20px 0px 0px 20px;
+    font-size: 40px;
+    color: #208454;
+}
+
+.info {
+    min-width: 150px;
+}
+
+article {
+    display: flex;
+}
+
+.news-link p:hover {
+    color: #9b9d9e;
+}
+
+.list-unstyled a {
+    text-decoration: none;
+}
+
+.reviews-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reviews-header h1 {
+    padding: 10px;
+}
+
+.reviews-header a {
+    padding: 10px;
+    padding-left: 0;
+    color: white;
+    font-size: 1.1rem;
+}
+
+/* buttons */
+
+.videos-link {
+    padding: 5px;
+}
+
+.videos-link a:hover {
+    color: #9b9d9e;
+
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.reviews-header button {
+    background-color: #208454;
+    border: #208454;
+    font-size: 1.1rem;
+    border-radius: 30px;
+}
+
+.reviews-header button:hover {
+    background-color: #2fb373;
+}
+
+.number {
+    font-size: 1.4rem;
+    padding-right: 5px;
+    color: #208454;
+}
+
+.trending {
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    border-left: 4px solid #208454;
+}
+
+.trend-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.trend-item a {
+    flex-grow: 1;
+    text-decoration: none;
+}
+
+.trend-title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #208454;
+    padding-left: 10px;
+}
+
+
+@media (max-width: 768px) { /* Defina a largura máxima desejada */
+    .trending {
+        display: none; /* Oculta a div quando a tela for menor que a largura máxima */
+    }
+}
