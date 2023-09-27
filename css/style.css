@@ -225,7 +225,7 @@ h1 {
 }
 
 .navbar-brand:hover {
-    color: #2fb373;
+    color: #208454;
 }
 
 caption {
@@ -289,7 +289,7 @@ caption {
 }
 
 .navbar-brand {
-    font-size: 30px;
+    font-size: 25px;
     color: #208454;
 }
 
@@ -345,6 +345,10 @@ article {
 .text-white {
     font-size: larger;
     padding: 5px;
+}
+
+.footer-text {
+    font-size: 1rem;
 }
 
 /* buttons */
