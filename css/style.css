@@ -232,7 +232,12 @@ caption {
     padding: 5px;
 }
 
-
+.motivation {
+    border-top: 4px solid #208454;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 20px;
+}
 
 .news-title-1 {
     font-weight: 600;
