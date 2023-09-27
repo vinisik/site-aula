@@ -342,6 +342,11 @@ article {
     color: yellow;
 }
 
+.text-white {
+    font-size: larger;
+    padding: 5px;
+}
+
 /* buttons */
 
 .videos-link {
