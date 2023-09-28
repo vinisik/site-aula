@@ -235,8 +235,7 @@ caption {
 .motivation {
     border-top: 4px solid #208454;
     padding-top: 2rem;
-    padding-bottom: 2rem;
-    margin-bottom: 20px;
+    height: 51.5vh;
 }
 
 .news-title-1 {
